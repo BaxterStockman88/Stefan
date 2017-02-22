@@ -1,0 +1,58 @@
+body {
+	/*background: url('https://www.clipartsgram.com/image/1127858435-background-images-for-websites-24.jpg');
+*/
+background-color: #0E0B16;
+}
+
+h1, h3, p {
+	font-family: 'Lato', sans-serif;
+	color: #E7DFDD;
+}
+h1 {
+	margin-bottom: 20px;
+}
+.container-fluid{
+    width: 85%;
+	max-width: 1024px;
+	margin: 0 auto;
+
+}
+
+  #SK {
+  	font-size: 35px;
+  	color: #4717F6;
+  }
+
+  .image {
+	padding: 60px 30px 10px 60px;
+
+	
+	
+  }
+  .txt {
+  	padding: 40px;
+  	
+  }
+  .navbar-inverse {
+  	background-color: #0E0B16;
+  }
+
+  .img-thumbnail {
+    background-color: #4717F6;
+    margin-bottom: 10px;
+  }
+
+  #portfolio-img {
+  	padding: 20px;
+  	margin: 20px;
+  }
+
+  .skill {
+  	margin-top: 50px;
+  }
+.fcc-icon {
+	width: 128px;
+}
+ footer {
+ 	border-top: 1px solid #E7DFDD;
+ }
